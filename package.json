@@ -28,7 +28,7 @@
     "graphql-request": "^3.4.0",
     "jest": "^26.6.3",
     "lodash": "^4.17.21",
-    "mongodb": "^3.6.5",
+    "mongodb": "^4.3.1",
     "next": "latest",
     "next-images": "^1.7.0",
     "nookies": "^2.5.2",
