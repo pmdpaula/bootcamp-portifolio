@@ -39,7 +39,7 @@
     "react-dom": "^16.8.0",
     "react-icons": "^4.2.0",
     "react-is": "^17.0.1",
-    "react-parallax-tilt": "^1.4.90",
+    "react-parallax-tilt": "^1.7.68",
     "react-tooltip": "^4.2.18",
     "styled-components": "^5.2.3",
     "styled-normalize": "^8.0.7"
